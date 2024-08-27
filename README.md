@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @dsweet797
-- 👀 I’m interested in SKIBIDI TOILET and Touhou!
-- 🌱 I’m currently learning JAVA
-- 💞️ I’m looking to collaborate on NOTHING
-- 📫 How to reach me... IN HELL!
-- 😄 Pronouns: U/S/A
-- ⚡ Fun fact: I was born in Michigan. 
+- 👀 I’m interested in
+- 🌱 I’m currently learning 
+- 💞️ I’m looking to collaborate on
+- 📫 How to reach me...
+- 😄 Pronouns: 
+- ⚡ Fun fact: 
 
 <!---
 dsweet797/dsweet797 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
